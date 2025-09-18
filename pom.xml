@@ -11,7 +11,7 @@
     <packaging>pom</packaging>
 
     <name>virtual-mall</name>
-    <description>Virtual Mall Project</description>
+    <description>Virtual Mall 聚合服务</description>
 
     <modules>
         <module>vmall-coupon</module>
