@@ -19,6 +19,8 @@
         <module>vmall-order</module>
         <module>vmall-product</module>
         <module>vmall-ware</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
     </modules>
 
     <properties>
